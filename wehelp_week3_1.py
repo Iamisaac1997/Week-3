@@ -1,4 +1,4 @@
-class Nerual_Network_1:
+class Network:
 
   def __init__(self):
       self.w11 = 0.5
@@ -18,7 +18,7 @@ class Nerual_Network_1:
 
     return O1
 
-nn=Nerual_Network_1()
+nn=Network()
 
 List=[[1.5,0.5],[0,1]]
 
